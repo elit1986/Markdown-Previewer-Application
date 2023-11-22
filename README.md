@@ -18,7 +18,7 @@ The project is structured into several main components:
 
 ## Setup
 
-To set up the project, clone the repository and install the dependencies with `npm install`. You can then start the development server with `npm start`.
+To set up the project, clone the repository and install the dependencies with `npm install`. You can then start the development server with `npm run dev`.
 
 ## Contributing
 
