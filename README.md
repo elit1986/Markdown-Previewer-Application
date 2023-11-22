@@ -24,6 +24,4 @@ To set up the project, clone the repository and install the dependencies with `n
 
 Contributions are welcome. Please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
